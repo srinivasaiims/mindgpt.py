@@ -1,0 +1,2 @@
+# mindgpt.py
+Mind GPT
