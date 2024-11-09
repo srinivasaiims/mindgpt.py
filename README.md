@@ -1,2 +1,1 @@
-# mindgpt.py
-Mind GPT
+# st-hello-world
